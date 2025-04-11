@@ -1,0 +1,9 @@
+NextJS: framework react
+
+-app: diretório que contém o fonte da aplicação
+-app/layout.tsx: arquivo que define coisas como fontes, cabeçalhos e rodapés: só precisam ser usados uma vez
+-app/globals.css: estilo de elementos globais da aplicação
+-eslint-config.mjs: configuração do eslint
+-next.config.ts: arquivo de configuração do projeto definido em uma classe typescript
+-postcss.config.mjs: arquivo de configuração da transpilação de tailwind pra css
+-tsconfig.json: configuração do typescript no projeto como um todo
